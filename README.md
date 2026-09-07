@@ -1,5 +1,4 @@
-# Pedestrian light
-
+# Pedestrian Light
 
 ATTiny85 Single-Button Power \& LED Controller
 ===
